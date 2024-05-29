@@ -1,2 +1,3 @@
 build
 *.sublime-workspace
+CMakeLists.txt.user
